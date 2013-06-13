@@ -1,0 +1,3 @@
+{"ts":1371109470382,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1371112711597,"patch":[[{"diffs":[[1,"{\r\n    \"name\" : \"Simple Node Server\",\r\n    \"version\" : \"0.0.1\",\r\n    \"dependencies\" : {\r\n        \"express\" : \"3.2.6\"\r\n    }\r\n}"]],"start1":0,"start2":0,"length1":0,"length2":126}]],"length":126,"saved":false}
+{"ts":1371112729094,"patch":[[{"diffs":[[0,"mple"],[-1," "],[1,"-"],[0,"Node"],[-1," "],[1,"-"],[0,"Serv"]],"start1":19,"start2":19,"length1":14,"length2":14}]],"length":126,"saved":false}
